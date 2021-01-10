@@ -1,0 +1,23 @@
+html,body {
+    margin: 0;
+}
+
+#imagem_fundo{
+    background: url("../img/fundo_med.jpg");
+    color: rgb(140, 0, 255);
+    height: 100%;
+    text-align: center;
+    padding-top: 20%;
+    padding-bottom: 10%;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+#titulo {
+    color: honeydew;
+}
+
+#subtitulo{
+    color: hotpink;
+}
+
