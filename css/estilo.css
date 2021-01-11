@@ -1,6 +1,7 @@
 html, body {
     margin: 0;
 }
+
 #imagem_fundo {
     background: url("../img/fundo_tech2.jpg");
     background-size: cover;
@@ -9,6 +10,7 @@ html, body {
     background-position: bottom;
 
 }
+
 #titulo {
     color: white;
     padding-top: 20%;
@@ -30,9 +32,11 @@ html, body {
     padding: 10px 20px 10px 20px;
 }
 
-.ods{
-    text-align: center;
+#intro{
+    background: rgba(121, 75, 248, 0.733);
 }
+
+
 
 .texto{
     padding-left: 5%;
@@ -40,4 +44,21 @@ html, body {
     padding-top:  2%;
     font-size: 18;
     text-align: justify;
+    color: ivory;
+}
+
+.icone{
+    width: 70px;
+}
+
+.coluna{
+    float: left;
+    padding: 0 5%;
+    position: relative;
+    width: 50%;
+}
+
+section{
+    padding: 20px;
+    float:left;
 }
