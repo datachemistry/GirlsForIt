@@ -2,10 +2,12 @@ html, body {
     margin: 0;
 }
 #imagem_fundo {
-    background: url("../img/fundo.jpg");
+    background: url("../img/fundo_tech2.jpg");
     background-size: cover;
     height: 100%;
     text-align: center;
+    background-position: bottom;
+
 }
 #titulo {
     color: white;
@@ -28,6 +30,14 @@ html, body {
     padding: 10px 20px 10px 20px;
 }
 
-#ods{
+.ods{
     text-align: center;
+}
+
+.texto{
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top:  2%;
+    font-size: 18;
+    text-align: justify;
 }
