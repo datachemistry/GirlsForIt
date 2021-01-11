@@ -2,7 +2,7 @@ html, body {
     margin: 0;
 }
 #imagem_fundo {
-    background: url("../img/fundo.jpg");
+    background: url("img/fundo.jpg");
     background-size: cover;
     height: 100%;
     text-align: center;
