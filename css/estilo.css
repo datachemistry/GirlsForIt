@@ -34,18 +34,24 @@ html, body {
 
 #intro{
     background: rgba(121, 75, 248, 0.733);
-}
-
-
-
-.texto{
-    padding-left: 5%;
-    padding-right: 5%;
-    padding-top:  2%;
-    font-size: 18;
-    text-align: justify;
     color: ivory;
 }
+
+#dev{
+    color: rgba(121, 75, 248, 0.733);
+
+}
+
+#ods{
+    background: rgba(121, 75, 248, 0.733);
+    color:ivory;
+}
+
+#refs{
+    color:rgba(121, 75, 248, 0.733)(121, 75, 248, 0.733);
+}
+
+
 
 .icone{
     width: 70px;
